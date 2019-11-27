@@ -1,0 +1,19 @@
+This is a text file to remind me how to commit things to git
+
+- Make some great changes to my file/code/whatever
+
+- SAVE the file
+
+- Open the git window on the top right of my Rstudio pane
+
+- Tick the box next to the object I want to save with git
+
+-  hit the "commit" button on the git pane
+
+- check what has changed as differences since the last version will be highlighted
+
+- add a descriptive commit message of what I changed/did
+
+- hit commit
+
+- then try again to break my code as I have an awesome copy saved
