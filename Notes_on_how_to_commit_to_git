@@ -17,3 +17,8 @@ This is a text file to remind me how to commit things to git
 - hit commit
 
 - then try again to break my code as I have an awesome copy saved
+
+
+(to change the email address used by the following line in the terminal:
+
+git config --global user.email"spenman1@student.unimelb.edu.au")
